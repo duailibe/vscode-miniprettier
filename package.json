@@ -2,7 +2,7 @@
 	"name": "miniprettier",
 	"displayName": "Prettier - Minimalist plugin",
 	"description": "Zero config plugin to run Prettier in VSCode",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"publisher": "duailibe",
 	"author": "Lucas Duailibe <@duailibe>",
 	"license": "MIT",
